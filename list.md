@@ -2,3 +2,7 @@
 vue-seamless-scroll  | 循环滚动插件  [https://github.com/chenxuan0000/vue-seamless-scroll]
 
 vue-virtual-scroller  | 无限列表处理插件  减少DOM数量 
+
+# vue案例
+vue + vuex + typescript |  typescript 案例  [https://github.com/Armour/vue-typescript-admin-template]
+vue + vuex + typescript |  个人博客  案例   [https://github.com/qidaizhe11/vue-vuex-typescript-demo]
