@@ -9,3 +9,5 @@ vue + vuex + typescript |  typescript 案例  [https://github.com/Armour/vue-typ
 vue + vuex + typescript |  个人博客  案例   [https://github.com/qidaizhe11/vue-vuex-typescript-demo]
 
 vue + vuex + vue-router | 模板(动态路由加载，权限，配置优化，字体图标) [http://panjiachen.github.io/vue-admin-template]
+
+vue + vuex + vue-router | 模板 中后台案例 (权限，动态路由，字体图标，案例) [https://panjiachen.github.io/vue-element-admin]
