@@ -7,3 +7,5 @@ vue-virtual-scroller  | 无限列表处理插件  减少DOM数量
 vue + vuex + typescript |  typescript 案例  [https://github.com/Armour/vue-typescript-admin-template]
 
 vue + vuex + typescript |  个人博客  案例   [https://github.com/qidaizhe11/vue-vuex-typescript-demo]
+
+vue + vuex + vue-router | 模板(动态路由加载，权限，配置优化，字体图标) [http://panjiachen.github.io/vue-admin-template]
